@@ -1,2 +1,3 @@
 # testGit
-2025 OSS 수업 중
+# testGit
+My first(?) Github repo!
